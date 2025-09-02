@@ -1,5 +1,5 @@
 // this is my first project about hotel reservation system... on jdbc
-//intro..
+
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Connection;
